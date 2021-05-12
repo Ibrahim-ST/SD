@@ -12,6 +12,9 @@
             <h1>Home Page</h1>
         </div>
         <div>Contents of home page</div>
+        <div>Contents of home page 1</div>
+        <div>Contents of home page 2</div>
+        <div>Contents of home page 3</div>
     </div>
 </body>
 </html>
