@@ -15,6 +15,7 @@
         <div>Contents of home page 1</div>
         <div>Contents of home page 2</div>
         <div>Contents of home page 3</div>
+        <div>Contents of home page 4</div>
     </div>
 </body>
 </html>
